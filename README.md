@@ -15,3 +15,7 @@ In this lesson, we will learn the following highlights:
 
 ## Starting
 Watch this video: [*The Drug Discovery Process*](https://www.youtube.com/watch?v=DhxD6sVQEYc)
+
+## Quick Jump to Pharmacometric model simulation tutorial
+Go to this [Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7033377/)
+See my [learnings]()
